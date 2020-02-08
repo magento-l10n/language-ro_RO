@@ -55,6 +55,13 @@ critical,critic
 notice,înștiințare
 "Wrong message type","Tipul de mesaj este greșit"
 "Wrong notification ID specified.","ID-ul notificării specificat este greșit."
+Back,Inapoi
+"Add Products","Adauga Produse"
+"Update Items and Quantities","Actualizeaza produsele si cantitatea"
+"Are you sure you want to clear your cart?","Esti sigur ca doresti sa golesti cosul?"
+"Clear my shopping cart","Goleste cosul de cumparaturi"
+"Add selections to my cart","Adauga produsele selectate in cos"
+Cancel,Anuleaza
 "Backup options","Opțiuni de backup"
 Warning,Avertizare
 Cancel,Anulează
