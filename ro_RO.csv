@@ -62,8 +62,23 @@ Back,Inapoi
 "Clear my shopping cart","Goleste cosul de cumparaturi"
 "Add selections to my cart","Adauga produsele selectate in cos"
 Cancel,Anuleaza
+"Create an Account","Creează un cont"
+"Account Created:","Contul a fost creat:"
+"Account Created on (%1):","Contul a fost creat la (%1):"
+"Create Account","Creează cont"
 No,Nu
 Yes,Da
+Summary,Sumar
+"Account Information","Informaţii despre cont"
+"Address Book",Agendă
+Menu,Meniu
+Account,Cont
+Settings,Setări
+Previous,Anterior
+"Remove This Item","Înlătură acest produs"
+"Clear All","Șterge tot"
+"Welcome to %store_name","Bine ai venit la %store_name"
+Password:,Parolă:
 "Backup options","Opțiuni de backup"
 Warning,Avertizare
 Cancel,Anulează
@@ -77,7 +92,6 @@ Cancel,Anulează
 "Method %s does not exist on jQuery.decorate","Metoda %s nu există în jQuery.decorate"
 Close,Închide
 Next,"Mai departe"
-Previous,Anterior
 "Please wait...","Vă rugăm așteptați..."
 Loading...,"Se încarcă..."
 "All ","Toate "
