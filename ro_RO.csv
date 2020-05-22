@@ -37,6 +37,7 @@ Remove,Elimină
 "Messages Inbox",Mesaje
 "You have %1 new system messages","Aveţi %1 mesaj(e) personal(e) nou(i)"
 "You have %1 new system message","Aveţi %1 mesaj personal nou"
+"Incoming Message","Mesaj primit"
 close,închide
 Notifications,Notificări
 "The message has been marked as Read.","Mesajul a fost marcat drept citit."
@@ -55,6 +56,8 @@ critical,critic
 notice,înștiințare
 "Wrong message type","Tipul de mesaj este greșit"
 "Wrong notification ID specified.","ID-ul notificării specificat este greșit."
+"{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} nu este recomandat să fie utilizat într-un mediu de producție pentru a declara URL-ul de bază nesecurizat / URL-ul securizat de bază. Vă recomandăm să schimbați această valoare în configurația Magento <a href=""%1""></a>."
+"System Messages:","Mesaje de sistem:"
 Back,Inapoi
 "Add Products","Adauga Produse"
 "Update Items and Quantities","Actualizeaza produsele si cantitatea"
