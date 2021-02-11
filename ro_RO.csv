@@ -1,35 +1,11 @@
 All,Toate
 None,Niciunul
 "Allowed Scopes","Scopuri Permise"
-"You need more permissions to delete this item(s): %1.","Aveți nevoie de mai multe permisiuni pentru a șterge acest(e) articol(e): %1."
 "You need more permissions to apply some of the rule updates.","Aveți nevoie de mai multe permisiuni pentru a aplica unele actualizări ale regulilor."
-"Please assign this entity to a store view.","Vă rugăm să atribuiți această entitate unei vizualizări de magazin."
-"You can create orders only in an active store.","Puteți crea comenzi doar într-un magazin activ."
-"Please assign this item to a store view.","Vă rugăm să atribuiți acest articol unei vizualizări din magazin."
-"You need more permissions to save this item.","Aveți nevoie de mai multe permisiuni pentru a salva acest articol."
-"You need more permissions to delete this item.","Aveți nevoie de mai multe permisiuni pentru a șterge acest articol."
-"You need more permissions to view this item.","Aveți nevoie de mai multe permisiuni pentru a vizualiza acest articol."
-"Please specify at least one website or one store group.","Vă rugăm să specificați cel puțin un site web sau un grup de magazine."
-"You need more permissions to set All Scopes to a Role.","Aveți nevoie de mai multe permisiuni pentru a seta toate scopurile pentru un rol."
-"Incorrect website ID: %1","ID-ul website-ului este incorect: %1"
+"More permissions are needed to save this item.","Sunt necesare mai multe permisiuni pentru a salva acest element."
 "You need more permissions to access website ""%1"".","Aveți nevoie de mai multe permisiuni pentru a accesa site-ul web ""%1""."
-"Incorrect store ID: %1","ID-ul magazinului este incorect: %1"
-"You need more permissions to save this setting.","Aveți nevoie de mai multe permisiuni pentru a salva acestă setare."
 "Role Scopes","Scopuri de rol"
 Custom,Personalizat
-"You don't have permissions to save this item in scope of current store view. Please, switch to allowed store view","Nu aveți permisiuni pentru a salva acest articol în sfera vizualizării curente a magazinului. Vă rugăm, treceți la vizualizarea permisă a magazinului"
-"More permissions are needed to delete the ""%1"" item.","Sunt necesare mai multe permisiuni pentru a șterge elementul ""%1”."
-"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Această entitate trebuie să fie atribuită unei vizualizări de magazin. Verificați atribuirea entității și încercați din nou."
-"Orders can only be completed in an active store. Verify the store and try again.","Comenzile pot fi finalizate numai într-un magazin activ. Verificați magazinul și încercați din nou."
-"This item needs to be assigned to a store view. Assign item and try again.","Acest articol trebuie să fie atribuit unei vizualizări din magazin. Alocați elementul și încercați din nou."
-"More permissions are needed to save this item.","Sunt necesare mai multe permisiuni pentru a salva acest element."
-"More permissions are needed to delete this item.","Sunt necesare mai multe permisiuni pentru a șterge acest element."
-"More permissions are needed to view this item.","Sunt necesare mai multe permisiuni pentru a vizualiza acest element."
-"At least one website or store group needs to be selected. Select and try again.","Trebuie să fie selectat cel puțin un web-site sau un grup de magazine. Selectați și încercați din nou."
-"More permissions are needed to set All Scopes to a Role.","Sunt necesare mai multe permisiuni pentru a seta toate scopurile unui rol."
-"The ""%1"" website ID is incorrect. Verify the website ID and try again.","ID-ul site-ului ""%1"" este incorect. Verificați ID-ul site-ului și încercați din nou."
-"The ""%1"" store ID is incorrect. Verify the store ID and try again.","ID-ul magazinului ""%1"" este incorect. Verificați ID-ul magazinului și încercați din nou."
-"More permissions are needed to save this setting.","Sunt necesare mai multe permisiuni pentru a salva acesta setare."
 "Read Details","Citire detalii"
 "Mark as Read","Marchează ca Citit"
 "Are you sure?","Eşti sigur(ă)?"
@@ -47,6 +23,7 @@ Notifications,Notificări
 "Total of %1 record(s) have been removed.","Un total de %1 înregistrări au fost șterse."
 "We couldn't remove the messages because of an error.","Nu am putut elimina mesajele din cauza unei erori."
 "The message has been removed.","Mesajul a fost șters."
+"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Ați vizualizat și rezolvat toate notificările recente de sistem. Vă rugăm să reîncărcați pagina web pentru a șterge alerta de notificare."
 "1 Hour","1 oră"
 "2 Hours","2 ore"
 "6 Hours","6 ore"
@@ -78,8 +55,6 @@ Severity,Severitate
 "Date Added","Data Adăugării"
 Message,Mesaj
 Actions,Acțiuni
-"Close popup","Închide pop-up"
-"You have viewed and resolved all recent system notices. Please refresh the web page to clear the notice alert.","Ați vizualizat și rezolvat toate notificările recente de sistem. Vă rugăm să reîncărcați pagina web pentru a șterge alerta de notificare."
 Back,Inapoi
 "Add Products","Adauga Produse"
 "Update Items and Quantities","Actualizeaza produsele si cantitatea"
@@ -92,15 +67,8 @@ Cancel,Anuleaza
 "Create an Account","Creează un cont"
 "Account Created:","Contul a fost creat:"
 "Account Created on (%1):","Contul a fost creat la (%1):"
-"Create Account","Creează cont"
 No,Nu
 Yes,Da
-Summary,Sumar
-"Account Information","Informaţii despre cont"
-"Address Book",Agendă
-Menu,Meniu
-Account,Cont
-Settings,Setări
 Previous,Anterior
 "Remove This Item","Înlătură acest produs"
 "Clear All","Șterge tot"
@@ -109,7 +77,6 @@ Password:,Parolă:
 "Backup options","Opțiuni de backup"
 Warning,Avertizare
 Cancel,Anulează
-"Insert Widget...","Introduceți widget..."
 "No records found.","Nu au fost găsite înregistrări."
 "Recent items","Articole recente"
 "Show all...","Arată tot..."
@@ -121,7 +88,6 @@ Close,Închide
 Next,"Mai departe"
 "Please wait...","Vă rugăm așteptați..."
 Loading...,"Se încarcă..."
-"All ","Toate "
 more,"mai mult"
 Save,Salvați
 Translate,Traduceți
