@@ -63,6 +63,32 @@ Back,Inapoi
 "Clear my shopping cart","Goleste cosul de cumparaturi"
 "Add selections to my cart","Adauga produsele selectate in cos"
 Cancel,Anuleaza
+Root,Rădăcină
+Delete,Ştergere
+"Are you sure you want to delete this category?","Sunteţi sigur că doriţi să ştergeţi categoria?"
+Save,Salvează
+"Use Config Settings","Folosește setările de configurare"
+"Use All Available Attributes","Folosește toate atributele disponibile"
+Name,Nume
+SKU,"Cod produs"
+Visibility,Vizibilitate
+Price,Preț
+Position,Poziție
+"Add Subcategory","Subcategorie nouă"
+"Add Root Category","Adăugaţi o categorie principală"
+Day,Zi
+Month,Lună
+Year,An
+from,"de la"
+to,"până la"
+"WYSIWYG Editor","Editor WYSIWYG"
+"Add Product","Adaugă Produs"
+label,etichetă
+"Product Attributes","Atributele produsului"
+"Add New Attribute","Adăugați un atribut nou"
+Cancel,Anulează
+"Save Attribute","Salvează atributul"
+"Save in New Attribute Set","Salvează într-un nou set de atribute"
 Country,Ţară
 State/Province,Stat/Provincie
 "View and Edit Cart","Vezi si Editeaza Cos"
@@ -121,7 +147,6 @@ Footer,Subsol
 "Update to your %store_name shipment","Actualizare legata de transportul comenzii tale la %store_name"
 "Backup options","Opțiuni de backup"
 Warning,Avertizare
-Cancel,Anulează
 "No records found.","Nu au fost găsite înregistrări."
 "Recent items","Articole recente"
 "Show all...","Arată tot..."
