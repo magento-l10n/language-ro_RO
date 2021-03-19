@@ -1,9 +1,23 @@
 All,Toate
 None,Niciunul
 "Allowed Scopes","Scopuri Permise"
+"More permissions are needed to delete the ""%1"" item.","Sunt necesare mai multe permisiuni pentru a șterge elementul ""%1""."
 "You need more permissions to apply some of the rule updates.","Aveți nevoie de mai multe permisiuni pentru a aplica unele actualizări ale regulilor."
+"More permissions are needed to view this item.","Sunt necesare mai multe permisiuni pentru a vizualiza acest element."
+"This entity needs to be assigned to a store view. Verify the entity assignment and try again.","Această entitate trebuie să fie atribuită unei vizualizări din magazin. Verificați atribuirea entității și încercați din nou."
+"This item needs to be assigned to a store view.
+                Please select a website for this product in ""Product in Websites"".","Acest articol trebuie atribuit unei vizualizări din magazin.
+                Vă rugăm să selectaţi un site web pentru acest produs în ""Produs în website-uri""."
+"Orders can only be completed in an active store. Verify the store and try again.","Comenzile pot fi finalizate numai într-un magazin activ. Verificați magazinul și încercați din nou."
+"This item needs to be assigned to a store view. Assign item and try again.","Acest element trebuie să fie atribuit unei vizualizări din magazin. Atribuiți elementul și încercați din nou."
 "More permissions are needed to save this item.","Sunt necesare mai multe permisiuni pentru a salva acest element."
+"More permissions are needed to delete this item.","Sunt necesare mai multe permisiuni pentru a șterge acest element."
+"At least one website or store group needs to be selected. Select and try again.","Trebuie selectat cel puțin un site web sau un grup de magazine. Selectați și încercați din nou."
+"More permissions are needed to set All Scopes to a Role.","Sunt necesare mai multe permisiuni pentru a seta toate codurile la un rol."
+"The ""%1"" website ID is incorrect. Verify the website ID and try again.","ID-ul site-ului ""%1"" este incorect. Verificaţi ID-ul website-ului şi încercaţi din nou."
 "You need more permissions to access website ""%1"".","Aveți nevoie de mai multe permisiuni pentru a accesa site-ul web ""%1""."
+"The ""%1"" store ID is incorrect. Verify the store ID and try again.","ID-ul magazinului ""%1"" este incorect. Verificați ID-ul magazinului și încercați din nou."
+"More permissions are needed to save this setting.","Sunt necesare mai multe permisiuni pentru a salva această setare."
 "Role Scopes","Scopuri de rol"
 Custom,Personalizat
 "Read Details","Citire detalii"
@@ -56,6 +70,8 @@ Severity,Severitate
 "Date Added","Data Adăugării"
 Message,Mesaj
 Actions,Acțiuni
+"Manage Shopping Cart","Gestionează coşul de cumpărături"
+"Create Order","Creare comandă"
 Back,Inapoi
 "Add Products","Adauga Produse"
 "Update Items and Quantities","Actualizeaza produsele si cantitatea"
@@ -63,6 +79,37 @@ Back,Inapoi
 "Clear my shopping cart","Goleste cosul de cumparaturi"
 "Add selections to my cart","Adauga produsele selectate in cos"
 Cancel,Anuleaza
+"Shopping Cart for %1 in %2","Coș de cumpărături pentru %1 în %2"
+"Select products you want to buy","Selectați produsele pe care doriți să le cumpărați"
+Product,Produs
+Price,Preț
+Quantity,Cantitate
+"Products in the Comparison List (%1)","Produse din lista de comparație (%1)"
+"Last ordered items (%1)","Ultimele articole comandate (%1)"
+Products,Produse
+SKU,"Cod produs"
+"Recently Compared Products (%1)","Produse recent comparate (%1)"
+"Recently Viewed Products (%1)","Produse vizualizate recent (%1)"
+"Add to Shopping Cart by SKU","Adauga la cosul de cumparaturi cu cod produs"
+"Add to Shopping Cart","Adaugă în coș"
+"Wish List (%1)","Listă de Dorințe (%1)"
+Apply,Aplică
+Configure,Configurează
+"Add to Order by SKU","Adaugă la comandă prin cod produs"
+"Add to Order","Adaugă la comandă"
+"Add Products to Order","Adaugă produse la comandă"
+"<span><span id=""sku-attention-num"">%1</span> product(s) require attention.</span>","<span><span id=""sku-attention-num"">%1</span> produs(e) necesită atenție</span>"
+"Remove All","Elimină tot"
+"Only %1%2%3 left in stock","Doar %1%2%3 rămas în stoc"
+"You can buy up to %1 of these per purchase.","Poți cumpăra până la %1 din acestea per achiziție."
+"You must buy at least %1 of these per purchase.","Trebuie să cumperi cel puțin %1 din acestea per achiziție."
+"Specify the product's options.","Specificați opțiunile produsului."
+"Alert me when this item is available.","Avertizează-mă când acest articol este disponibil."
+"This customer couldn't be found. Verify the customer and try again.","Acest client nu a putut fi găsit. Verificați clientul și încercați din nou."
+"Shopping cart management is disabled for this customer.","Administrarea cosului este dezactivata pentru acest client."
+"This store couldn't be found. Verify the store and try again.","Nu s-a putut găsi magazinul. Verificați magazinul și încercați din nou."
+Customers,Clienți
+"Shopping Cart","Coș de cumpărături"
 Root,Rădăcină
 Delete,Ştergere
 "Are you sure you want to delete this category?","Sunteţi sigur că doriţi să ştergeţi categoria?"
@@ -70,9 +117,7 @@ Save,Salvează
 "Use Config Settings","Folosește setările de configurare"
 "Use All Available Attributes","Folosește toate atributele disponibile"
 Name,Nume
-SKU,"Cod produs"
 Visibility,Vizibilitate
-Price,Preț
 Position,Poziție
 "Add Subcategory","Subcategorie nouă"
 "Add Root Category","Adăugaţi o categorie principală"
