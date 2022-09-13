@@ -201,6 +201,104 @@ File,Fişier
 "The text of the link to the My Account &gt; Order by SKU page","Textul link-ului către contul meu &gt; Pagina comenzilor dupa cod produs"
 "Load a list of SKUs","Încarcă o listă de coduri de produs"
 "Order by SKU Template","Template Ordoneaza dupa cod produs"
+"Please correct the data sent.","Vă rugăm să corectați datele trimise."
+"Entity type model '%1' is not found","Modelul entitatatii '%1' nu a fost găsit"
+"Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Modelul entitatatii trebuie să fie o instanță de \Magento\CatalogImportImport\Model\Export\Product\Type\AbstractType"
+"There are no product types available for export","Nu există tipuri de produse disponibile pentru export"
+"%1 class doesn't implement \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface","%1 clasa nu implementează \Magento\AdvancedRule\Model\Condition\FilterTextGeneratorInterface"
+"Sales Rule","Regula vanzari"
+"Index sales rule","Index reguli de vânzare"
+"Related Search Terms","Termeni de căutare asociați"
+"Add New Search Term","Adăugare termen de căutare nou"
+button_label,etichetă_button
+"Missing search engine parameter.","Parametrul motorului de căutare absent."
+"Successful! Test again?","Succes! Testează din nou?"
+"Connection failed! Test again?","Conexiune eșuată! Testează din nou?"
+"Enable Search Recommendations","Activează recomandările de căutare"
+"When you enable this option your site may slow down.","Când activați această opțiune, site-ul dumneavoastră poate încetini."
+"Search Recommendations Count","Numărul de recomandări de căutare"
+"Show Results Count for Each Recommendation","Arată numărul de rezultate pentru fiecare recomandare"
+"Enable Search Suggestions","Activează sugestiile de căutare"
+"Search Suggestions Count","Numărul de sugestii de căutare"
+"Show Results Count for Each Suggestion","Arată numărul de rezultate pentru fiecare sugestie"
+"Related search terms","Termeni de căutare asociați"
+"Did you mean","Aţi vrut să spuneţi"
+"Search Query","Criteriu de căutare"
+Store,Magazin
+Results,Rezultate
+Uses,Utilizări
+"Redirect URL","URL de redirecționare"
+"Suggested Term","Termen sugerat"
+Yes,Da
+"RPC call failed, connection timed out after %time_out.","Apelul RPC a eșuat, conexiunea a expirat după %time_out."
+"Message has been rejected: %1","Mesajul a fost respins: %1"
+"Error while checking if topic is synchronous","Eroare la verificarea dacă subiectul este sincron"
+"Subscription status","Starea abonamentului"
+"Sorry, there has been an error processing your request. Please try again later.","Ne pare rău, a apărut o eroare la procesarea cererii tale. Te rugăm să încerci din nou mai târziu."
+"The time value is using an unsupported format. Enter a supported format and try again.","Valoarea timpului este un format neacceptat. Introduceți un format acceptat și încercați din nou."
+"Cron settings can't be saved","Setările Cron nu pot fi salvate"
+"There was an error save new configuration value.","A apărut o eroare la salvarea noii valori de configurare."
+"Please select an industry.","Vă rugăm selectaţi o industrie."
+"--Please Select--","-- Selectați --"
+"Command ""%1"" was not found.","Comanda ""%1"" nu a fost găsită."
+"The data is invalid. Enter the data as a string or data that can be converted into a string and try again.","Datele nu sunt valide. Introduceți datele ca un text sau date care pot fi convertite într-un text și încercați din nou."
+"The data is invalid. Enter the data as a string and try again.","Datele nu sunt valide. Introduceți datele ca text și încercați din nou."
+"The data is invalid. Use a valid cipher method and try again.","Datele nu sunt valide. Utilizați o metodă validă de criptare și încercați din nou."
+"Enter the encryption key and try again.","Introduceți cheia de criptare și încercați din nou."
+"The ""%1"" source doesn't exist.","Sursa ""%1"" nu există."
+"These arguments can't be empty ""%1""","Aceste argumente nu pot fi goale ""%1"""
+"Cannot find predefined integration user!","Nu se poate găsi utilizator predefinit de integrare!"
+"File is not ready yet.","Fişierul nu este gata încă."
+"Your Base URL has been changed and your reports are being updated. Advanced Reporting will be available once this change has been processed. Please try again later.","URL-ul tău de bază a fost schimbat și rapoartele tale sunt actualizate. Raportarea avansată va fi disponibilă odată ce această schimbare a fost procesată. Vă rugăm să încercați din nou mai târziu."
+"Failed to synchronize data to the Magento Business Intelligence service. ","Nu s-a reușit sincronizarea datelor cu serviciul Magento Business Intelligence. "
+"Retry Synchronization","Reîncercați sincronizarea"
+TestMessage,"Mesaj de test"
+"Apps and Games","Aplicații și jocuri"
+"Athletic/Sporting Goods","Bunuri atlantice/sportive"
+"Art and Design","Artă și Design"
+"Advanced Reporting","Raportare avansată"
+"Gain new insights and take command of your business' performance, using our dynamic product, order, and customer reports tailored to your customer data.","Câștigă noi informații și preia comanda performanțelor afacerii tale, folosind rapoartele dinamice despre produs, comandă și client personalizate pentru datele clientului tău."
+"Go to Advanced Reporting","Mergeți la Raportare Avansată"
+Analytics,"Date analitice"
+Configuration,Configurație
+"BI Essentials","Esentiale BI"
+"This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","Acest serviciu oferă o suită dinamică de rapoarte cu informații bogate despre afacerea dvs.
+                Rapoartele tale pot fi accesate în siguranță pe un tablou de bord personalizat în afara panoului de administrare făcând clic pe linkul
+                ""Raportare avansată"". </br> Pentru mai multe informații, consultați <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">
+                termenii și condițiile noastre</a>."
+"Advanced Reporting Service","Serviciu de raportare avansat"
+"Time of day to send data","Ora zilei pentru a trimite date"
+"Industry Data","Date privind industria"
+Industry,Industrie
+"In order to personalize your Advanced Reporting experience, please select your industry.","Pentru a personaliza experiența dvs. Avansată de Raportare, vă rugăm să vă selectați industria."
+"<strong>Get more insights from Magento Business Intelligence</strong>","<strong>Obține mai multe informații de la Magento Business Intelligence</strong>"
+"Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Magento Business Intelligence vă oferă o cale simplă și clară către
+                    a deveni condus de date.</br> Aflați mai multe despre <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">nivelurile Magento BI Essentials și BI Pro</a>."
+"Auto Parts","Piese auto"
+"Baby/Children’s Apparel, Gear and Toys","Îmbrăcăminte de bebeluşi/copii şi jucării"
+"Beauty and Cosmetics","Înfrumusețare și produse cosmetice"
+"Books, Music and Magazines","Cărți, muzică și reviste"
+"Crafts and Stationery","Meşteşuguri şi papetărie"
+"Consumer Electronics","Electronica de consum"
+"Deal Site","Site de oferte"
+"Fashion Apparel and Accessories","Îmbrăcăminte și accesorii de modă"
+"Food, Beverage and Grocery","Alimente, băuturi și produse alimentare"
+"Home Goods and Furniture","Bunuri pentru casă și mobilă"
+"Home Improvement","Îmbunătăţirea locuinţei"
+"Jewelry and Watches","Bijuterii şi ceasuri"
+"Mass Merchant","Comerciant în masă"
+"Office Supplies","Produse pentru birou"
+"Outdoor and Camping Gear","Echipament pentru exterior și pentru camping"
+"Pet Goods","Bunuri pentru animale de companie"
+"Pharma and Medical Devices","Dispozitive farmaceutice și medicale"
+"Technology B2B","Tehnologie B2B"
+Other,Altele
 "Invalid Form Key. Please refresh the page.","Formă cheie/cod nevalidă. Reîmprospătați pagina."
 "You entered an invalid Secret Key. Please refresh the page.","Ați introdus o Cheie Secretă nevalidă. Reîmprospătați pagina."
 "Cache Storage Management","Management stocare cache"
@@ -265,7 +363,6 @@ Save,Salvare
 "Edit Design Change","Modificați modificare de design"
 "New Store Design Change","Modificare design magazin nou"
 "General Settings","Setări generale"
-Store,Magazin
 "-- Please Select --","-- Selectați --"
 "Custom Design","Design personalizat"
 "Date From","Din data"
@@ -276,7 +373,6 @@ Cancel,anulați
 "Delete %1","șterge %1"
 "Block Information","Informații bloc"
 "Backup Options","Opțiuni pentru copii de rezervă"
-Yes,Da
 "Create DB Backup","Creați Backup DB"
 "Delete Store","ștergeți magazin"
 "Delete Web Site","ștergeți Web Site"
@@ -1255,7 +1351,6 @@ Details,Detalii
 Stock,Stoc
 "Index stock","Index stoc"
 "Catalog Advanced Search","Căutare avansată catalog"
-Results,Rezultate
 "Search Weight","Căutați greutate"
 Relevance,Importanță
 "Search results for: '%1'","Căutați rezultate pentru: '%1'"
@@ -2086,7 +2181,6 @@ Condition,Condiție
 "Card Verification Number","Număr verificare card"
 "Please Select",Selectați
 "We'll ask for your payment details before you place an order.","Vom solicita detaliile dumneavoastră de plată înainte ca dumneavoastră să plasați comanda."
-"--Please Select--","-- Selectați --"
 "Card Verification Number Visual Reference","Referință vizuală număr verificare card"
 "Credit Card Information","Informații card de credit"
 "Please enter a valid credit card number.","Introduceți un număr de card de credit valid."
@@ -2112,7 +2206,6 @@ Authorize,Permiteți
 "PayPal Settlement Reports","Rapoarte acord PayPal"
 "We are connecting to the PayPal SFTP server to retrieve new reports. Are you sure you want to continue?","Vă conectăm la server-ul SFTP PayPal SFTP pentru a vă recupera rapoartele noi. Sunteți sigur că doriți să continuați?"
 "Fetch Updates","Accesează actualizări"
-button_label,etichetă_button
 sandbox_button_label,Etichetă_button_sandbox
 Help,Ajutor
 Close,închideți
@@ -3255,7 +3348,6 @@ Refunds,Restituiri
 "Search Term","Cătare termen"
 Uses,Utilizatori
 "Search Terms","Termeni de căutare"
-"Add New Search Term","Adăugare termen de căutare nou"
 "Save Search","Salvare căutare"
 "Delete Search","șterge căutare"
 "Edit Search '%1'","Editare căutare '%1'"
@@ -3452,7 +3544,6 @@ Priority,Prioritate
 "Your Language","Limba dumneavoastră:"
 Language,Limba
 "Select Store","Selectați magazinul"
-Configuration,Configurație
 Layouts,Aspecte
 "Blocks HTML output","Output blocuri HTML"
 "Collections Data","Informații Colecție"
