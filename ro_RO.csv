@@ -417,8 +417,46 @@ Debug,Depanare
 "The transaction details are unavailable. Please try again later.","Detaliile tranzacției nu sunt disponibile. Te rugăm să încerci din nou mai târziu."
 "Authorize.Net Direct Post (Deprecated)","Authorize.Net Post Direct (Depreciat)"
 "Signature Key","Cheie Semnătură"
+"There was an error while trying to process the request.","A apărut o eroare la procesarea cererii."
+"This transaction cannot be refunded with its current status.","Această tranzacție nu poate fi rambursată cu starea sa curentă."
+"The authenticity of the gateway response could not be verified.","Autenticitatea răspunsului la poarta portalului nu a putut fi verificată."
+"Credit Card Type","Tip card de credit"
+"Expiration Date","Dată expirare"
+"Basic Authorize.Net Settings","Setări Authorize.Net de bază"
+Environment,Mediu
+"Public Client Key","Cheie Client Publică"
+"Merchant MD5 (deprecated)","MD5 Comerciant (învechit)"
+"Advanced Authorize.Net Settings","Setări avansate Authorize.Net"
+"Accepted Currency","Moneda Acceptata"
+"Enable Credit Card Verification Field","Activează câmpul de verificare card de credit"
+"Invalid request to gateway.","Cerere nevalidă de gateway."
+"Invalid gateway credentials.","Acreditările gateway-ului sunt invalide."
+"Transaction has been declined. Please try again later.","Tranzacția a fost refuzată. Te rugăm să încerci din nou mai târziu."
+Close,Închide
+options,opțiuni
+"Select all","Selecteaza tot"
+"Deselect all","Deselecteaza tot"
+Cancel,Anulare
+Selected,Selectat
+"We couldn't find any records.","Nu am putut găsi înregistrări."
+" Item(s)"," Articol(e)"
+"Items ","Articole "
+" to "," către "
+" of "," din "
+Page,Pagina
+Previous,Anterior
+"You're currently reading page","Acum citești pagina"
+Next,Următorul
+Show,Arată
+"per page","pe pagină"
+"Please Select","Vă rugăm să selectați"
+"%s of %s selected","%s din %s selectat"
+"Search by keyword","Căutare după cuvânt cheie"
+"This is a required field.","Acesta este un câmp obligatoriu."
+"B2B Features","Caracteristici B2B"
 "Invalid Form Key. Please refresh the page.","Formă cheie/cod nevalidă. Reîmprospătați pagina."
 "You entered an invalid Secret Key. Please refresh the page.","Ați introdus o Cheie Secretă nevalidă. Reîmprospătați pagina."
+"Invalid security or form key. Please refresh the page.","Cheie securitate sau formular nevalidă. Vă rugăm să reîmprospătați pagina."
 "Cache Storage Management","Management stocare cache"
 "Flush Magento Cache","curățare Cache Magento"
 "The cache storage may contain additional data. Are you sure that you want to flush it?","Memoria cache poate conține informații suplimentare.Sunteți sigur că doriți să o curățați?"
@@ -539,6 +577,7 @@ To,Către
 "Invalid export type supplied for grid export block","Tip export nevalid furnizat pentru blocul de export grilă."
 Export,Exportați
 "Please correct the column format and try again.","Corectați formatul coloanei și încercați din nou."
+"An item needs to be selected. Select and try again.","Un element trebuie să fie selectat. Selectați și încercați din nou."
 Submit,Trimite
 "Unknown block type","Tip bloc necunoscut"
 "Please correct the tab configuration and try again.","Corectați configurația filei și încercați din nou."
@@ -628,8 +667,6 @@ password,parolă
 "About the calendar","Despre calendar"
 Close,Închide.
 "Go Today","Mergeți astăzi"
-Previous,Anterior
-Next,Următorul
 Time,Timp
 Hour,Oră
 Minute,Minut
@@ -650,7 +687,6 @@ Thumbnail,Miniatură
 "Additional Settings","Setări suplimentare"
 "records found","registre găsite"
 selected,selectat
-"per page","pe pagină"
 "Previous page","Pagina anterioară"
 "of %1","din %1"
 "Next page","Pagina următoare"
@@ -1307,7 +1343,6 @@ Prev,Previzualizare
 "Items %1-%2 of %3","Articolele %1-%2 din %3"
 "%1 Item","%1 articol"
 "%1 Items","%1 Articole"
-Show,Arată
 "Sort By","Sortați după"
 "Set Ascending Direction","Setați ascendent"
 "Set Descending Direction","Setați descendent"
@@ -2262,7 +2297,6 @@ Condition,Condiție
 "Include Tax to Amount","Includeți taxele în sumă"
 "We cannot retrieve the payment method model object.","Nu se poate recupera obiectul-model al modalității de plată."
 "We cannot retrieve the payment info model object.","Nu se poate recupera obiectul-model al informațiilor de plată."
-"Credit Card Type","Tip card de credit"
 "Switch/Solo/Maestro Issue Number","Număr emitere card Switch/Solo/Maestro"
 "Switch/Solo/Maestro Start Date","Dată începere card Switch/Solo/Maestro"
 "We cannot retrieve the transparent payment method model object.","Nu se poate recupera modelul-obiect al modalității de plată transparente."
@@ -2285,7 +2319,6 @@ Condition,Condiție
 "Please enter a valid credit card verification number.","Introduceți un număr de verificare card de credit valid."
 "Please enter a valid credit card expiration date.","Introduceți o dată de expirare card de credit validă."
 "%1 class doesn't implement \Magento\Payment\Model\MethodInterface","Clasa %1 nu implementează \Magento\Plată\Model\InterfațăModalitate"
-"Expiration Date","Dată expirare"
 "We'll ask for your payment details before you place an order.","Vom solicita detaliile dumneavoastră de plată înainte ca dumneavoastră să plasați comanda."
 "Card Verification Number Visual Reference","Referință vizuală număr verificare card"
 "Credit Card Information","Informații card de credit"
@@ -3831,7 +3864,6 @@ Apply,Aplicare
 "Please enter a valid zip code.","Introduceți un cod poștal valid."
 "Please select State/Province.","Selectați Stat/Zonă"
 "Please enter issue number or start date for switch/solo card type.","Introduceți numărul de emitere sau data de început a valabilității tipului de card switch/solo."
-"This is a required field.","Acesta este un câmp obligatoriu."
 "Please enter positive number in this field.","Introduceți un număr pozitiv în acest câmp."
 "Please enter a valid value, ex: 10,20,30","Introduceți o valoare validă, ex: 10,20,30"
 Attention,Atenție
@@ -3927,7 +3959,6 @@ Cancel,Anulează
 "Please select one of each ratings above.","Vă rugăm acordați câte o notă pentru fiecare evaluare de mai sus."
 "Please specify Url.","Vă rugăm să specificați URL-ul."
 "Method %s does not exist on jQuery.decorate","Metoda %s nu există în jQuery.decorate"
-Close,Închide
 Next,"Mai departe"
 "Please wait...","Vă rugăm așteptați..."
 more,"mai mult"
