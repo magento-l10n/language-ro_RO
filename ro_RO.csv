@@ -2205,6 +2205,29 @@ Relevance,Importanță
 "Minimal Query Length","Lungime minimă interogare"
 "Maximum Query Length","Lungime maximă interogare"
 "Rebuild Catalog product fulltext search index","Reconstruire index căutare text complet produs catalog"
+"Update %1 from %2 to %3.","Actualizează %1 de la %2 la %3."
+View/Edit,Vizualizare/Editare
+Preview,Previzualizare
+"Set Product as New","Setează produsul ca Nou"
+"Enable Category","Activeaza Categoria"
+"Include in Menu","Include în meniu"
+"Category Image","Imagine categorie"
+"Add CMS Block","Adaugă bloc CMS"
+"Display Settings","Setări de afișare"
+Anchor,Ancoră
+"Sort Products By","Sortează produsele după"
+"Use All","Utilizează toate"
+"Default Product Sorting","Sortare implicită a produselor"
+"Layered Navigation Price Step","Pasul prețului de navigare în straturi"
+"Meta Title","Meta Titlu"
+"Meta Keywords","Meta Cuvinte cheie"
+"Use Parent Category Settings","Folosește Setările Categoriei Părinte"
+"New Theme","Temă nouă"
+"Save as a New Update","Salvează ca actualizare nouă"
+"Move to Another Update","Mutați în altă actualizare"
+"Delete the Update","Ștergeți actualizarea"
+"The category will be removed from the update and all scheduled changes will be lost.","Categoria va fi ștearsă din actualizare și toate modificările programate vor fi pierdute."
+"End Time","Ora de încheiere"
 "Shopping Cart","Coșul de cumpărături"
 "Invalid method: %1","metodă nevalidă: %1"
 State/Province,Stat/zonă
@@ -2847,7 +2870,6 @@ Start,începeți
 Pause,Pauză
 "Do you really want to cancel the queue?","Sunteți sigur că doriți să anulați șirul?"
 Resume,Continuă
-Preview,Previzualizare
 "Add New Template","Adaugă șablon nou"
 "Newsletter Templates","șabloane Buletin informativ"
 "Convert to Plain Text","Transformați în text simplu"
