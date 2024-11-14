@@ -2153,6 +2153,38 @@ Enable,Activează
 "Apply Rules","Aplică Regulile"
 Conditions,Condiții
 "Conditions (don't add conditions if rule is applied to all products)","Condiții (nu adăuga condiții dacă regula este aplicată tuturor produselor)"
+Promotions,Promoţii
+"We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Am găsit reguli actualizate care nu sunt aplicate. Vă rugăm să faceţi clic pe ""Aplică reguli"" pentru a actualiza catalogul."
+"We can't apply the rules.","Nu putem aplica regulile."
+"You deleted the rule.","Ai șters regula."
+"Customer Groups","Grupuri de clienți"
+To,"Până la"
+Priority,Prioritate
+"Discard subsequent rules","Renunță la regulile ulterioare"
+"Edit Rule '%1'","Modifică Regula '%1'"
+"Pricing Structure Rules","Reguli de structură a prețurilor"
+"Subproduct discounts","Reduceri subproduse"
+"Wrong rule specified.","Regulă specificată greșit."
+"Undefined condition type ""%1"" passed in.","Condiție nedefinită ""%1"" pasată."
+"Undefined SQL operator ""%1"" passed in. Valid operators are: %2","Operator SQL nedefinit trimis ""%1"". Operatorii valizi sunt: %2"
+"Undefined rule operator ""%1"" passed in. Valid operators are: %2","Operator de regulă trimis nedefinit ""%1"". Operatorii valizi sunt: %2"
+"Undefined rule aggregator ""%1"" passed in. Valid operators are: %2","Agregator de reguli nedefinit trimis ""%1"". Operatorii valizi sunt: %2"
+"The ""%1"" rule was unable to be saved. Please try again.","Regula ""%1"" nu a putut fi salvată. Vă rugăm să încercați din nou."
+"The rule with the ""%1"" ID wasn't found. Verify the ID and try again.","Regula cu ID-ul ""%1"" nu a fost găsit. Verificați ID-ul și încercați din nou."
+"The ""%1"" rule couldn't be removed.","Regula ""%1"" nu a putut fi ștearsă."
+"Future Update in this time range already exists. Select a different range to add a new Future Update.","Actualizarea viitoare în acest interval de timp există deja. Selectați un interval diferit pentru a adăuga o nouă actualizare viitoare."
+"Smth went to exception","Smth a generat o exceptie"
+Edit,Editare
+"Scheduled Changes","Modificări programate"
+"Update Information","Actualizeaza Informatii"
+"Remove Catalog Price Rule from Update","Eliminați Regula prețului catalogului de la actualizare"
+"Schedule Update","Programare actualizare"
+"Update Name","Nume actualizare"
+"Start Date","Data inceput"
+"End Date","Data finalizării"
+"Rule Information","Informatii Regula"
+"Rule Name","Numele regulii"
+Apply,Aplica
 "Catalog Advanced Search","Căutare avansată catalog"
 "Search Weight","Căutați greutate"
 Relevance,Importanță
@@ -2309,7 +2341,6 @@ exception,excepție
 "Localized Exception.","Excepție Localizată"
 "Error message","Mesaj eroare"
 "Role Name","Nume rol"
-Edit,Editare
 "Street Address","Adresă stradă"
 City,Oraș
 Country,Țară?
@@ -2477,7 +2508,6 @@ Unlock,Deblocare
 "Delete Image","ștergeți imagine"
 "View Full Size","Vizualizare mărime normală"
 "All countries","Toate țările"
-"Customer Groups","Grupuri de clienți"
 "Add New Customer Group","Adăugați grup de clienți nou"
 "Save Customer Group","Salvați grup de clienți"
 "Delete Customer Group","ștergeți grup de clienți"
@@ -4283,7 +4313,6 @@ Yearly,Anual
 "Base Only","Numai bază"
 "Sitemap Generation Warnings","Avestismente Generație Hartă Site"
 "Categories Options","Opțiuni categorii"
-Priority,Prioritate
 "Valid values range from 0.0 to 1.0.","Interval valori valide de la 0.0 la 1.0."
 "Products Options","Opțiuni produs"
 "Add Images into Sitemap","Adăugați imagini pe Harta site-ului"
