@@ -4681,6 +4681,7 @@ Attention,Atenție
 "Log JS Errors to Session Storage","înscrieți Erorile JS la sesiunea de stocare"
 "Log JS Errors to Session Storage Key","înscrieți erorile JS la cheia sesiunii de stocare"
 Apply,Aplicare
+"Please enter a quantity greater than 0.","Te rog introdu o cantitate mai mare de 0."
 "Edit URL Rewrite for a Category","Modificați Rescrierea URL pentru o Categorie"
 "Add URL Rewrite for a Category","Adăugați Rescrierea URL pentru o categorie"
 Category:,Categorie:
