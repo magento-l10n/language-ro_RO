@@ -4292,6 +4292,48 @@ Shipment,Livrare
 "PDF Creditmemos","Note de credit PDF"
 Refunds,Restituiri
 "Product is not salable.","Produsul nu este la vânzare."
+"Cart Price Rules","Reguli preț cos"
+"Are you sure you want to delete this?","Sunteți sigur că doriți să ștergeți acest lucru?"
+Save,Salvează
+"Apply the rule only to cart items matching the following conditions (leave blank for all items).","Aplică regula doar articolelor din coș care îndeplinesc următoarele condiții (lasă necompletat pentru toate articolele)."
+"Apply To","Se aplică la"
+"Apply the rule only if the following conditions are met (leave blank for all products).","Aplica regula numai daca următoarele condiții sunt îndeplinite (lăsați gol pentru toate produsele)."
+"Manage Coupon Codes","Gestionează codurile de cupon"
+"Coupon Qty","Cantitate Cupon"
+"Code Length","Lungime cod"
+"Excluding prefix, suffix and separators.","Excluzând prefixul, sufixul și separatoarele."
+"Code Format","Format dată"
+"Code Prefix","Prefix cod"
+"Code Suffix","Sufix cod"
+"Dash Every X Characters","Liniuță la fiecare X caractere"
+"If empty no separation.","Dacă este gol fără separare."
+Generate,Generează
+"Coupon Code","Cod cupon"
+Created,"Creat la"
+"Times Used","De cate ori a fost utilizat"
+Labels,Etichete
+"%1 - Discounts and Coupons","%1 - Reduceri și Cupoane"
+Coupons/Discounts,Cupoane/Reduceri
+Promotions,Promoții
+"We can't delete the rule right now. Please review the log and try again.","Nu putem șterge regula acum. Te rugăm să revizuiești jurnalul de loguri și să încerci din nou."
+"We can't find a rule to delete.","Nu se găsește nici o hartă a site-ului de șters."
+"Edit Rule","Modificați regulă"
+"New Rule","Regulă nouă"
+"New Cart Price Rule","Adaugă Reguli Preț Coș"
+"Rule is not defined","Regula nu este definită"
+"%1 coupon(s) have been generated.","%1 Cupon (cupoane) au fost generate."
+"Invalid data provided","Date incorecte furnizate"
+"Something went wrong while generating coupons. Please review the log and try again.","Ceva nu a mers bine în timpul generării cupoanelor. Examinați jurnalul și încercați din nou."
+"The wrong rule is specified.","Regula greșită este specificată."
+"You saved the rule.","Ai salvat regula."
+"Something went wrong while saving the rule data. Please review the error log.","Ceva nu a mers bine în timpul salvării datelor regulii. Te rugăm să revizuiești jurnalul de erori."
+Alphanumeric,Alfanumeric
+Alphabetical,Alfabetic
+"We cannot create the requested Coupon Qty. Please check your settings and try again.","Nu putem crea cantitatea de cupon solicitată. Vă rugăm să verificați setările și să încercați din nou."
+"Specified rule does not allow coupons","Regula specificată nu permite cupoane"
+"Specified rule only allows auto generated coupons","Regula specificată permite doar cupoane generate automat"
+"Specified rule does not allow auto generated coupons","Regula specificată nu permite cupoane generate automat"
+"Error occurred when saving coupon: %1","A apărut o eroare la salvarea cuponului: %1"
 "Search Term","Cătare termen"
 Uses,Utilizatori
 "Search Terms","Termeni de căutare"
@@ -4539,8 +4581,6 @@ Layouts,Aspecte
 "The tax rule has been deleted.","Regula taxei a fost ștearsă."
 "Something went wrong deleting this tax rule.","A avut loc o eroare la ștergerea acestei reguli de taxă."
 "New Tax Rule","Regulă taxă nouă"
-"Edit Rule","Modificați regulă"
-"New Rule","Regulă nouă"
 "You saved the tax rule.","Ați salvat regula taxei."
 "We can't save this tax rule right now.","Nu se poate salva această regulă de taxă momentan."
 "Invalid name of tax class specified.","Nume clasă taxă specificat nevalid."
