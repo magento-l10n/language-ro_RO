@@ -3250,6 +3250,7 @@ Subscribed,Abonat
 Unsubscribed,Dezabonat
 Unconfirmed,Neconfirmat
 "Newsletter Subscriptions","Abonamente la newsletter"
+"A confirmation request has been sent.","Solicitarea de confirmare a fost trimisă."
 "General Options","Opțiuni generale"
 "Shipping Price","Preț livrare"
 "Export CSV","Exportă CSV"
@@ -4345,6 +4346,7 @@ Apply,Folosește
 "Your Credit Memo #%creditmemo_id for Order #%order_id","Nota dumneavoastră de credit #%creditmemo_id pentru comanda #%order_id"
 "Billing Info","Informații facturare"
 "Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Comanda dumneavoastră #%increment_id a fost actualizată la statusul de <strong>%order_status</strong>."
+"Invoice for your %store_name order","Factura pentru comanda ta la %store_name"
 "Your Invoice #%invoice_id for Order #%order_id","Factura dumneavoastră #%invoice_id pentru Comanda #%order_id"
 "Once your package ships we will send you a tracking number.","Odată ce coletul este livrat, vă vom trimite numărul de urmărire al comenzii."
 "Your Order <span class=""no-link"">#%increment_id</span>","Comanda dumneavoastră <span class=""no-link"">#%increment_id</span>"
