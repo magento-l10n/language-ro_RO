@@ -2420,7 +2420,7 @@ Relevance,Importanță
 "We can't find any items matching these search criteria.","Nu se pot găsi articole care să coincidă cu aceste criterii de căutare."
 "Modify your search.","Modifică parametri căutare."
 "Don't see what you're looking for?","Nu găsiți ceea ce căutați?"
-"Your search returned no results.","Nu s-au gasit rezultate pentru căutare."
+"Your search returned no results.","Nu s-au găsit rezultate pentru căutare."
 "Catalog Search","Căutare catalog"
 "Popular Search Terms","Termeni populari de căutare"
 "Minimal Query Length","Lungime minimă interogare"
@@ -2430,6 +2430,7 @@ Relevance,Importanță
 View/Edit,Vizualizare/Editare
 Preview,Previzualizare
 "Set Product as New","Setează produsul ca Nou"
+"Enable Category","Activează Categoria"
 "Meta Title","Meta Titlu"
 "Meta Keywords","Meta Cuvinte cheie"
 "New Theme","Temă nouă"
@@ -2438,12 +2439,14 @@ Preview,Previzualizare
 "Delete the Update","Ștergeți actualizarea"
 "The category will be removed from the update and all scheduled changes will be lost.","Categoria va fi ștearsă din actualizare și toate modificările programate vor fi pierdute."
 "End Time","Ora de încheiere"
+"Create Permanent Redirect for URLs if URL Key Changed","Creați Redirecționare permanentă pentru URL-uri dacă s-a modificat cheia URL"
 "Number of Products to Display","Numarul de produse afisate"
 Template,Şablon
 "Products Grid Template","Șablon grilă produse"
 "Cache Lifetime (Seconds)","Durata Cache (Secunde)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 în mod implicit, dacă nu este setat. Pentru a reîmprospăta instantaneu, șterge memoria cache de ieșire HTML."
 "Shopping Cart","Coșul de cumpărături"
-"Invalid method: %1","metodă nevalidă: %1"
+"Invalid method: %1","Metodă nevalidă: %1"
 State/Province,Stat/zonă
 "Zip/Postal Code","Cod poștal"
 "My Cart (1 item)","Coșul meu(1 articol)"
@@ -2493,7 +2496,7 @@ Checkout,"Finalizare comandă"
 "There are more than one shipping addresses.","Există mai multe adrese de livrare."
 "Sorry, guest checkout is not available.","Ne cerem scuze, checkout-ul vizitatorilor nu este disponibil."
 "You must confirm your account. Please check your email for the confirmation link or <a href=""%1"">click here</a> for a new link.","Trebuie să vă activați contul. Verificați-vă adresa de email pentru codul de confirmare sau <a href=""%1"">faceți click aici</a> pentru un link nou."
-"Load customer quote error","încărcați eroare specificație client"
+"Load customer quote error","Încărcați eroare specificație client"
 "Error message!","Mesaj de eroare!"
 Error!,Eroare!
 "DB exception","Excepție DB"
@@ -2538,7 +2541,7 @@ Update,Actualizare
 "Save in address book","Salvați în agenda cu adrese"
 "Estimated Total","Total estimat"
 "You can create an account after checkout.","Poti creea un cont dupa finalizare comanda."
-"You already have an account with us. Sign in or continue as guest.","Aveti deja un cont inregistrat.Conectati-va sau continuati ca vizitator"
+"You already have an account with us. Sign in or continue as guest.","Aveți deja un cont înregistrat. Conectați-va sau continuați ca vizitator."
 Login,Conectare
 "See Details","Vizualizare detalii"
 "Options Details","Detalii Opțiuni"
@@ -2598,7 +2601,7 @@ Payment,Plată
 "Cart contains virtual product(s) only. Shipping address is not applicable.","Cosul contine doar produse virtuale. Adresa de livrare nu este aplicabila."
 "Wrong minimum amount.","Sumă minimă greșită."
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Imprimați chitanța</a>"
-"No Payment Methods","Nici o modaliatate de plată"
+"No Payment Methods","Nici o modalitate de plată"
 "Shipping Methods","Modalități de livrare"
 "Item in Cart","Produs în Coș"
 "Items in Cart","Articole în coș"
@@ -4237,6 +4240,7 @@ New,Nou
 "Visible on Storefront","Vizibil în vitrină"
 Notified,Notificat
 "Not Notified","Nu a fost notificat"
+"No Payment Methods","Nici o modaliatate de plată"
 "Order Comments","Comentarii comandă"
 "Apply Coupon Code","Aplicare cod cupon"
 Apply,Folosește
