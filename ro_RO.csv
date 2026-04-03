@@ -2642,6 +2642,8 @@ Identifier,Identificator
 Created,Creat
 Modified,Modificat
 Action,Acţiune
+"A block identifier with the same properties already exists in the selected store.","Un identificator de bloc cu aceleași proprietăți există deja în magazinul selectat."
+"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Sunteţi sigur că nu aţi şters o înregistrare ""${ $.$data.title }""?"
 "Delete Customer","ștergeți client"
 Back,înapoi
 "Incorrect CAPTCHA","CAPTCHA incorect"
