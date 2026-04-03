@@ -2644,6 +2644,8 @@ Modified,Modificat
 Action,Acţiune
 "A block identifier with the same properties already exists in the selected store.","Un identificator de bloc cu aceleași proprietăți există deja în magazinul selectat."
 "Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Sunteţi sigur că nu aţi şters o înregistrare ""${ $.$data.title }""?"
+"The CMS block with the ""%1"" ID doesn't exist.","Blocul CMS cu ""%1"" ID nu există."
+"Future Update already exists in this time range. Set a different range and try again.","Actualizarea viitoare există deja în acest interval de timp. Setați un interval diferit și încercați din nou."
 "Delete Customer","ștergeți client"
 Back,înapoi
 "Incorrect CAPTCHA","CAPTCHA incorect"
