@@ -2668,7 +2668,7 @@ exception,excepție
 "Role Name","Nume rol"
 "Street Address","Adresă stradă"
 City,Oraș
-Country,Țară?
+Country,Țară
 "Please select a region, state or province.","Selectați o regiune, un stat sau o zonă."
 "Phone Number","Număr de telefon"
 "User Role","Rol utilizator"
@@ -2682,13 +2682,16 @@ Contacts,Contacte
 Company,Companie
 "Create an Account","Creați cont"
 Change,Modifică
+"* Create and manage company shipping and billing addresses","* Creați și gestionați adresele de livrare și facturare ale companiei"
 "When you sign in to your account, you will be able to:","Când vă veți conecta la contul dumneavoastră, veți putea să:"
 "Edit User","Editare utilizator."
-Comma-separated,"Separate prin Virgulă."
+Comma-separated,"Separat prin virgulă"
+"Default Company Registration Email","E-mail implicit de înregistrare firmă"
 Block,Bloc
 Comment,Comentariu
 ZIP,"Cod poștal"
 Gender,Gen
+"Reason for Rejection","Motivul respingerii"
 "My Orders","Comenzile mele"
 "Create New Customer","Creați client nou"
 Users,Utilizatori
