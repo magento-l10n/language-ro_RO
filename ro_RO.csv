@@ -2343,6 +2343,7 @@ End,Sfârșit
 Stock,Stoc
 "Index stock","Index stoc"
 "The requested qty is not available","Cantitatea solicitată nu este disponibilă"
+"Add to Cart","Adaugă în coș"
 "No, Redirect to Landing Page","Nu, Redirecționează către pagina de aterizare"
 "Permission with the same scope","Permisiune cu același domeniu de aplicare"
 "You may need more permissions to access this category.","Este posibil să aveţi nevoie de mai multe permisiuni pentru a accesa această categorie."
@@ -2407,6 +2408,7 @@ Edit,Editare
 "Rule Name","Numele regulii"
 Apply,Aplica
 "Catalog Advanced Search","Căutare avansată catalog"
+"Advanced Search Results","Rezultate Căutare Avansată"
 "Search Weight","Căutați greutate"
 Relevance,Importanță
 "Search results for: '%1'","Căutați rezultate pentru: '%1'"
@@ -2643,7 +2645,10 @@ Created,Creat
 Modified,Modificat
 Action,Acţiune
 "A block identifier with the same properties already exists in the selected store.","Un identificator de bloc cu aceleași proprietăți există deja în magazinul selectat."
-"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Sunteţi sigur că nu aţi şters o înregistrare ""${ $.$data.title }""?"
+"Redirect to CMS-page if Cookies are Disabled","Redirecționează la pagina CMS dacă Cookie-urile sunt dezactivate"
+"Are you sure you wan't to delete a ""${ $.$data.title }"" record?","Sunteți sigur că nu ați șters o înregistrare ""${ $.$data.title }""?"
+"Are you sure you wan't to delete selected items?","Ești sigur că dorești să ștergi elementele selectate?"
+"""identifiers"" of CMS blocks should be specified","""Identificatorii"" de blocuri CMS ar trebui specificați"
 "The CMS block with the ""%1"" ID doesn't exist.","Blocul CMS cu ""%1"" ID nu există."
 "Future Update already exists in this time range. Set a different range and try again.","Actualizarea viitoare există deja în acest interval de timp. Setați un interval diferit și încercați din nou."
 "Delete Customer","ștergeți client"
@@ -4991,7 +4996,6 @@ error-message,mesaj-eroare
 "Move to Wishlist","Mutare în lista dorinţelor"
 "Add to Wish List","Adaugă la Favorite"
 "View Product","Vezi Produs"
-"Add to Cart","Adaugă în coș"
 "In stock","În stoc"
 "Out of stock","Nu este în stoc"
 "Remove Item","Elimină elementul"
