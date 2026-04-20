@@ -2695,6 +2695,11 @@ Gender,Gen
 "My Orders","Comenzile mele"
 "Create New Customer","Creați client nou"
 Users,Utilizatori
+"Reimburse Balance","Rambursare sold"
+"Use config settings","Utilizați setările de configurare"
+"Currency ""%1"" is used as %2 in %3.","Moneda ""%1"" este folosită ca %2 în %3."
+some_comment,"comentariu cuiva"
+"'The XML in file ""%1"" is invalid:' . ""\n%2\nVerify the XML and try again.""","'XML în fișierul ""%1"" este invalid:' . ""\n%2\nVerificaţi XML și încercați din nou."""
 "Add configurable attributes to the current Attribute Set (""%1"")","Adăugați atribute configurabile la setul de atribute curent (""%1"")"
 "Add configurable attributes to the new Attribute Set based on current","Adăugați atribute configurabile la noul setul de atribute bazat pe actualul"
 "New attribute set name","Nume st atribute nou"
