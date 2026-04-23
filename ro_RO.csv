@@ -2775,6 +2775,7 @@ Phone,Telefon
 "Send Emails To","Trimiteți Email către"
 "Email Sender","Expeditor email"
 "Email Template","șablon email"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Șablon email ales pe baza temei fallback atunci când opțiunea ""Implicit"" este selectată."
 "Invalid cookie path","Cale cookie nevalidă"
 "We use cookies to make your experience better.","Utilizăm cookies pentru ca dumneavostră să aveți o experiență cât mai plăcută."
 "To comply with the new e-Privacy directive, we need to ask for your consent to set the cookies.","Pentru a ne conforma noii directive e-Privacy, trebuie să primim acordul dumneavosatră pentru a seta cookie-urile."
@@ -2796,7 +2797,7 @@ region,regiune
 "Save Customer","Salvați client"
 "Reset Password","Resetare parolă"
 "Are you sure you want to revoke the customer's tokens?","Sunteți sigur că doriți să revocați simbolurile clientului?"
-"Force Sign-In","Farțate conectare"
+"Force Sign-In","Conectare forțată"
 "New Customer","Client nou"
 "Please select",Selectați
 Configure,Configurare
@@ -2836,7 +2837,7 @@ Unlocked,Deblocat
 "Add Date","Adăugați dată"
 "Days in Wish List","Zile în Lista de dorințe"
 Unlock,Deblocare
-"Delete File","ștergeți fișier"
+"Delete File","Ștergeți fișier"
 "Delete Image","ștergeți imagine"
 "View Full Size","Vizualizare mărime normală"
 "All countries","Toate țările"
@@ -2850,7 +2851,7 @@ Unlock,Deblocare
 "Tax Class","Clasa de impozitare"
 "The customer is now assigned to Customer Group %s.","Clientul este acum atribuit grupului de clienți %s."
 "Would you like to change the Customer Group for this order?","Doriți să schimbați grupul de clienți pentru această comandă?"
-"The VAT ID is valid.","Valoare TVA nevalidă"
+"The VAT ID is valid.","Valoare TVA nevalidă."
 "The VAT ID entered (%s) is not a valid VAT ID.","Valoarea TVA introdusă (%s) nu este un ID TVA valid."
 "The VAT ID is valid. The current Customer Group will be used.","Valoare TVA validă. Se va folosi grupul de clienți curent."
 "The VAT ID is valid but no Customer Group is assigned for it.","ID-ul valorii TVA este valid, dar nu i-a fost atribuit nici unui grup de clienți."
@@ -2887,7 +2888,7 @@ Unlock,Deblocare
 "Something went wrong while saving the new password.","A avut loc o eroare la salvarea noii parole."
 "You deleted the address.","Ați șters adresa."
 "We can't delete the address right now.","Nu se poate șterge adresa momentan."
-"You saved the address.","Ați salvat adresa"
+"You saved the address.","Ați salvat adresa."
 "We can't save the address.","Nu se poate salva adresa."
 "You have revoked the customer's tokens.","Ați revocat simbolurile clientului."
 "We can't find a customer to revoke.","Nu se poate găsi un client pentru revocare."
@@ -2923,7 +2924,7 @@ Unlock,Deblocare
 """%1"" invalid type entered.","Tip ""%1"" nevalid introdus."
 """%1"" contains non-alphabetic or non-numeric characters.","""%1"" conține caractere non-alfabetice sau non-numerice."
 """%1"" is an empty string.","""%1"" este un șir gol."
-"""%1"" contains non-numeric characters.","""%1"" cnține caractere non-numerice."
+"""%1"" contains non-numeric characters.","""%1"" conține caractere non-numerice."
 """%1"" contains non-alphabetic characters.","""%1"" conține caractere non-alfabetice."
 """%1"" is not a valid email address.","""%1"" nu este o adresă email validă."
 """%1"" is not a valid hostname.","""%1"" nu este un nume de gazdă valid."
@@ -2960,7 +2961,7 @@ Female,Femeie
 "Not Specified",Nespecificat
 NoSuchEntityException,"Nici o excepție de entitate"
 InputException,ExcepțieInput
-"Validator Exception","Validator excepție"
+"Validator Exception","Excepție Validator"
 "Localized Exception","Excepție localizată"
 "some error","unele erori"
 "Please enter the state/province.","Introduceți statul / zona."
@@ -2998,7 +2999,7 @@ Address,Adresa
 "Go back",înapoi
 "Please enter your email below and we will send you the confirmation link.","Introduceți mai jos adresa de email și vă vom trimite link-ul de confirmare."
 "Send confirmation link","Trimiteți link de confirmare"
-"Back to Sign In","înapoi la Conectare"
+"Back to Sign In","Înapoi la autentificare"
 "Current Password","Parola curentă"
 "Confirm New Password","Confirmați noua parola"
 "Please enter your email address below to receive a password reset link.","Introduceți mai jos adresa de email pentru a primi link-ul de resetare parolă."
@@ -3029,7 +3030,7 @@ Password:,Parola:
 "To sign in to our site and set a password, click on the <a href=""%create_password_url"">link</a>:","Pentru conectarea pe site-ul nostru și setarea unei parole, faceși click pe <a href=""%create_password_url"">link</a>:"
 "There was recently a request to change the password for your account.","A existat recent o solicitare de schimbare a parolei pentru contul dumneavoastră."
 "If you requested this change, set a new password here:","Dacă dumneavoastră ați solicitat această schimbare, setați parola nouă aici:"
-"If you did not make this request, you can ignore this email and your password will remain the same.","Dacă nu dumneavoastră ați făcut această solicitare, ignorați acest email și parola dumneavosată va rămâne aceeași."
+"If you did not make this request, you can ignore this email and your password will remain the same.","Dacă nu dumneavoastră ați făcut această solicitare, ignorați acest email și parola dumneavoastră va rămâne aceeași."
 "Are you sure you want to delete this address?","Sunteți sigur(ă) că vreți să ștergeți această adresă?"
 "Customer Configuration","Configurație client"
 "Account Sharing Options","Opțiuni partajare cont"
@@ -3058,6 +3059,7 @@ Password:,Parola:
 "Remind Email Template","șablon reamintire adresă de email"
 "Reset Password Template","Resetare șablon parolă"
 "Password Template Email Sender","șablon parolă email expeditor"
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Numărul de clase de caractere diferite necesare în parolă: litere mici, majuscule, cifre, caractere speciale."
 "Maximum Login Failures to Lockout Account","Numărul maxim de eșuări la conectare penrtu blocarea contului"
 "Lockout Time (minutes)","Timp blocare (minute)"
 "Enable Autocomplete on login/forgot password forms","Activați autofinalizarea la formele conectare/am uitat parola"
@@ -3077,7 +3079,7 @@ Password:,Parola:
 "Login Options","Opțiuni conectare"
 "Redirect Customer to Account Dashboard after Logging in","Redirecționați clientul către Panoul Contului după conectare"
 "Customer will stay on the current page if ""No"" is selected.","Clientul va rămâne pe pagina curentă dacă ""Nu"" este selectat."
-"Address Templates","șabloane adresă"
+"Address Templates","Șabloane adresă"
 "Online Customers Options","Opțiuni clienți online"
 "Online Minutes Interval","Interval minute online"
 "Leave empty for default (15 minutes).","Lăsați necompletat pentru valoarea implicită (15 minute)."
@@ -3101,6 +3103,8 @@ Group,Grup
 Addresses,Adrese
 "Edit Account Information","Editați informațiile de profil"
 "Password forgotten","Parolă uitată"
+"Checkout out using your account","Comandă cu contul tău"
+"There is no customer with such id.","Nu există nici un client cu acest id."
 Street,Strada
 State,Stat
 "Create an Account","Creează un cont"
@@ -3117,6 +3121,7 @@ Date,Data
 Yes/No,Da/Nu
 "Input type ""%value%"" not found in the input types list.","Tip input ""%value%"" nu este găsit în lista de tipuri input."
 "Entity object is undefined","Obiect entitate nedefinit"
+"""%1"" contains non-numeric characters.","""%1"" cnține caractere non-numerice."
 """%1"" is not a valid image format","""%1"" nu este un format de imagine valid."
 """%1"" cannot contain more than %2 lines.","""%1"" nu poate conține mai mult de %2 rânduri."
 "Invalid entity_type specified: %1","Tip_entitate specificat nevalid: %1"
