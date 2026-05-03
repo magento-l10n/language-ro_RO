@@ -3111,7 +3111,7 @@ State,Stat
 "Default Label","Etichetă implicită"
 "Default label","Etichetă implicită"
 "Values Required","Valori necesare"
-"Decimal Number","Numar zecimal"
+"Decimal Number","Număr zecimal"
 "Integer Number","Număr întreg"
 Letters,Litere
 "Letters (a-z, A-Z) or Numbers (0-9)","Litere (a-z, A-Z) sau Numere (0-9)"
@@ -3148,9 +3148,10 @@ Yes/No,Da/Nu
 "The value of attribute ""%1"" is invalid.","Valoarea atributului ""%1"" nu este validă."
 "AttributeSet does not exist.","Set atribute inexistent."
 hello,bună
-"Some internal exception message.","Mesaj excepție internă"
+"Some internal exception message.","Mesaj excepție internă."
 "The value of attribute not valid","Valoare atribut nevalidă"
 "EAV types and attributes","Tipuri și atribute EAV"
+"The attribute set name is empty. Enter the name and try again.","Numele setului de atribute este gol. Introduceți numele și încercați din nou."
 "Filterable (with results)","Filtrabile (cu rezultate)"
 "Filterable (no results)","Filtrabile (fără rezultate)"
 "Use in Layered Navigation","Folosiți la navigarea stratificată"
