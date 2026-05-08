@@ -3152,6 +3152,10 @@ hello,bună
 "The value of attribute not valid","Valoare atribut nevalidă"
 "EAV types and attributes","Tipuri și atribute EAV"
 "The attribute set name is empty. Enter the name and try again.","Numele setului de atribute este gol. Introduceți numele și încercați din nou."
+"Amount should be specified or Open Amount should be allowed","Suma trebuie specificată sau suma deschisă trebuie permisă"
+"Could not add gift message to order's item: ""%1""","Nu s-a putut adăuga mesajul de cadou la articolul din comandă: „%1”"
+"The gift message couldn't be added to the ""%1"" order item.","Mesajul cadou nu a putut fi adăugat la ""elementul comenzii%1""."
+Updated,Actualizat
 "Filterable (with results)","Filtrabile (cu rezultate)"
 "Filterable (no results)","Filtrabile (fără rezultate)"
 "Use in Layered Navigation","Folosiți la navigarea stratificată"
@@ -3169,7 +3173,7 @@ items,articole
 "Display Price Interval as One Price","Afișați interval preț ca un singur preț"
 "This setting will be applied when all prices in the specific price interval are equal.","Această setare va fi pusă în aplicare atunci când toate prețurile dintr-un interval specific de preț sunt egale."
 "Interval Division Limit","Limită diviziune interval"
-"Please specify the number of products, that will not be divided into subintervals.","Specificați numărul de produse care nu vor fi divizate în subintervale."
+"Please specify the number of products, that will not be divided into subintervals.","Specificați numărul de produse care nu vor fi divizate în sub intervale."
 "Delete Selected Problems","ștergeți problemele selectate"
 "Unsubscribe Selected","Dezabonare selectate"
 "Preview Template","Previzualizare șablon"
@@ -3200,7 +3204,6 @@ Resume,Continuă
 "Template Content","Conținut șablon"
 "Template Styles","Stiluri șablon"
 "No Templates Found","Nici un șablon găsit"
-Updated,Actualizat
 Sender,Expeditor
 "Template Type","Tip șablon"
 "Queue Newsletter","Pune Buletinul informativ la coada de așteptare"
@@ -3221,7 +3224,7 @@ Subscribers,Abonați
 "Edit Template","Editare șablon"
 "New Template","șablon nou"
 "Create Newsletter Template","Creează șablon Buletin informativ"
-"The newsletter template has been saved.","șablonul buletinului informativ a fost salvat."
+"The newsletter template has been saved.","Șablonul buletinului informativ a fost salvat."
 "Something went wrong while saving this template.","A avut loc o eroare la salvarea șablonului."
 "Newsletter Subscription","Abonare la newsletter"
 "Something went wrong while saving your subscription.","A avut loc o eroare la salvarea abonării dumneavoastră."
@@ -3283,7 +3286,9 @@ Unsubscribed,Dezabonat
 Unconfirmed,Neconfirmat
 "Newsletter Subscriptions","Abonamente la newsletter"
 "A confirmation request has been sent.","Solicitarea de confirmare a fost trimisă."
+"We have updated your subscription.","Am actualizat abonamentul tău."
 "General Options","Opțiuni generale"
+"Purchase order number is a required field.","Numărul comenzii de cumpărare este un câmp obligatoriu."
 "Shipping Price","Preț livrare"
 "Export CSV","Exportă CSV"
 "Store Pickup","Ridicare de la magazin"
